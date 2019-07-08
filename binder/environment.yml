@@ -15,3 +15,5 @@ dependencies:
   - nomkl
   - h5py
   - xarray
+  - pip:
+    - gsw
