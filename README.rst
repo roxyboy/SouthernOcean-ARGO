@@ -6,7 +6,7 @@ SouthernOcean-ARGO
 .. image:: https://zenodo.org/badge/181911058.svg
       :target: https://zenodo.org/badge/latestdoi/181911058
 
-This repository contains the analysis scripts used for the paper *Characterizing the Seasonality of Phytoplankton Biomass in the Southern Ocean Observed by Biogeochemical Floats*. Uchida. T., D. Balwada, R. Abernathey, P. Channing, E. Boss, and S. Gille. (2019) JGR: Oceans (`DOI`_). 
+This repository contains the analysis scripts used for the paper *Characterizing the Seasonality of Phytoplankton Biomass in the Southern Ocean Observed by Biogeochemical Floats*. Uchida, T., D. Balwada, R. Abernathey, P. Channing, E. Boss, and S. Gille. (2019) JGR: Oceans (`DOI`_). 
 We provide the notebooks for quality control using a `SOCCOM float 5904185 <SOCCOM/5904185.ipynb>`_ as a representative, `phytoplankton biomass over the whole dataset <Cphyto.ipynb>`_, and the timing of each spring bloom phase, viz. `onset, climax and apex <COMCLIMphasing.ipynb>`_. 
 
 All notebooks in this repository are openable on `Binder`_ but data is only provided for `SOCCOM/5904185.ipynb <SOCCOM/5904185.ipynb>`_.
