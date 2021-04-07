@@ -2,7 +2,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.4
+  - python=3
   - bokeh=0.13
   - dask=0.20
   - jupyterlab=0.35.1
