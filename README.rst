@@ -1,11 +1,9 @@
 SouthernOcean-ARGO
 ==================
-|DOI| |Binder|
 .. image:: https://mybinder.org/badge_logo.svg
-    :target:
-    https://mybinder.org/v2/gh/roxyboy/SouthernOcean-ARGO/HEAD?filepath=SOCCOM%2F5904185.ipynb
+   :target: https://mybinder.org/v2/gh/roxyboy/SouthernOcean-ARGO/HEAD?filepath=SOCCOM%2F5904185.ipynb
 .. image:: https://zenodo.org/badge/181911058.svg
-      :target: https://zenodo.org/badge/latestdoi/181911058
+   :target: https://zenodo.org/badge/latestdoi/181911058
 
 This repository contains the analysis scripts used for the paper *Characterizing
 the Seasonality of Phytoplankton Biomass in the Southern Ocean Observed by
